@@ -20,18 +20,18 @@ Use imwrite(filename, image) to write the image.
 End the program and close the output image windows.
 ## Program:
 
-
+```
 # Developed By:Koduru Sanath Kumar Reddy
 # Register Number: 212221240024
 
-~~~
+
 
 # To Read,display the image
 import cv2
 colorImage = cv2.imread('/Users/kodurusanathkumarreddy/Desktop/cars.jpg',1)
 cv2.imshow('212221240024-Read&Display',colorImage)
 cv2.waitKey(0)
-~~~
+
 
 
 # To write the image
@@ -75,7 +75,7 @@ cv2.imshow('212221240024-CutAndPaste',color_img)
 cv2.waitKey(0)
 
 
-
+```
 
 
 
