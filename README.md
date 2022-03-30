@@ -19,7 +19,8 @@ Use imwrite(filename, image) to write the image.
 ### Step5:
 End the program and close the output image windows.
 ## Program:
-```python
+~~~
+
 # Developed By:Koduru Sanath Kumar Reddy
 # Register Number: 212221240024
 
@@ -72,6 +73,7 @@ cv2.imshow('212221240024-CutAndPaste',color_img)
 cv2.waitKey(0)
 
 
+~~
 
 
 
@@ -79,8 +81,6 @@ cv2.waitKey(0)
 
 
 
-
-```
 
 ## Output:
 
