@@ -73,7 +73,7 @@ cv2.imshow('212221240024-CutAndPaste',color_img)
 cv2.waitKey(0)
 
 
-~~
+~~~
 
 
 
