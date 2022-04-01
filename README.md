@@ -96,8 +96,9 @@ cv2.waitKey(0)
 <br>
 
 ### iii)Shape of the Image
-<br>
-<br>
+
+
+
 ![shape](shape.png)
 <br>
 
